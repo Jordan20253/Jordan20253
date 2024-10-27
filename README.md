@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 <!--
-**Jordan20253/Jordan20253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Learn to Cloud 👋
+Hi! My name is Jordan, and welcome to my cloud learning journey repository! This is where I document my progress and practice exercises as I explore cloud computing technologies.
+🚀 About This Repository
+This repository serves as my personal learning space where I:
+
+Track my progress through cloud computing concepts
+Store practice exercises and projects
+Document my learnings and insights
+Share resources I find helpful along the way
+
+📚 Learning Path
+I'm following the Learn to Cloud Guide to structure my learning journey. This repository specifically focuses on implementing and practicing concepts on learn2cloud.guide /Jordan20253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
